@@ -29,7 +29,7 @@ _**An interactive canvas to visualize and connect ideas.**_
 - 🖱️ Drag and drop custom nodes with ease.  
 - 🌐 Visualize relationships between data elements.  
 - 🎨 Styled with Tailwind CSS and DaisyUI for a modern, responsive look.  
-**Built With**: Angular, RxJS, TypeScript, Tailwind CSS  
+**Built With**: Angular, ngx-vFlow, Drag-and-Drop, RxJS, TypeScript, Tailwind CSS  
 
 ---
 
