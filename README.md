@@ -11,6 +11,18 @@ I’m a **Full-Stack Web Developer** with a passion for building innovative web,
 - **Cross-Platform Expertise**: Creating seamless mobile and desktop apps with Ionic Capacitor and Electron.
 - **UI/UX Enthusiast**: Leveraging Tailwind CSS, SCSS, and Material-UI for beautiful, user-friendly designs.
 
+
+---
+
+## 🌟 **My Craft in Action**
+
+### [💰 Costify](#)  
+_**An intuitive and efficient expense manager app.**_  
+- 📊 Track spending and stay within your budgets effortlessly.  
+- 🔔 Get notifications when expenses exceed set limits for better financial planning.  
+- 🌐 Seamless offline functionality powered by PouchDB.  
+**Built With**: Angular, Ionic, PouchDB, Chart.js, RxJS  
+
 ---
 
 ## 🌟 **My Craft in Action**
