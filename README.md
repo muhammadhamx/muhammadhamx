@@ -25,8 +25,6 @@ _**An intuitive and efficient expense manager app.**_
 
 ---
 
-## 🌟 **My Craft in Action**
-
 ### [🍽️ Foodify](https://foodify-three.vercel.app/floors)  
 _**A restaurant management app to elevate your dining experience.**_  
 - 📱 Customers: Order food directly from the table.  
