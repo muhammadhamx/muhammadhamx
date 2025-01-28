@@ -58,7 +58,7 @@ From freelancing to working as a **Web Developer**, I've honed my craft by build
 ## 💬 **Let’s Connect**
 I’m always excited to discuss projects, collaborations, or just chat about tech!  
 - **GitHub**: [muhammadhamx](https://github.com/muhammadhamx)  
-- **LinkedIn**: [Muhammad Hamza Sajid](https://www.linkedin.com/in/muhammadhamzasajid)  
+- **LinkedIn**: [Muhammad Hamza Sajid](www.linkedin.com/in/muhammad-hamza-sajid-033b53232)  
 - **Email**: [muhammadhamzasajid6@gmail.com](mailto:muhammadhamzasajid6@gmail.com)
 
 ---
