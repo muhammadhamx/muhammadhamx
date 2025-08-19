@@ -7,10 +7,10 @@ I’m a **Full-Stack Web & Python Developer** with a passion for building innova
 
 ## 🛠️ What I Do Best  
 - **Frontend Wizardry**: Crafting stunning, responsive interfaces with **Angular, Ionic, and Electron**.  
-- **Backend Brilliance**: Designing robust APIs and managing data with **Node.js, NestJS, MongoDB, and PostgreSQL**.  
+- **Backend Brilliance**: Designing robust APIs and managing data with **Django REST Framework, Node.js, MongoDB, and PostgreSQL**.  
 - **Cross-Platform Expertise**: Creating seamless mobile and desktop apps with **Ionic Capacitor** and **Electron**.  
 - **UI/UX Enthusiast**: Leveraging **Tailwind CSS, SCSS, and Material-UI** for beautiful, user-friendly designs.  
-- **Data & Scraping**: Automating workflows and extracting valuable insights using **Python, Django, and Web Scraping**.  
+ 
 
 ---
 
