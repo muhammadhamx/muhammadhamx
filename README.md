@@ -1,7 +1,7 @@
 # Hey there! I'm Muhammad Hamza Sajid 👋  
 
 Welcome to my little corner of GitHub, where code meets creativity and ideas come to life. 🚀  
-I’m a **Full-Stack Web Developer** with a passion for building innovative **web, mobile, and desktop applications** that solve real-world problems and deliver exceptional user experiences.  
+I’m a **Full-Stack Web & Python Developer** with a passion for building innovative **web, mobile, and desktop applications** that solve real-world problems and deliver exceptional user experiences.  
 
 ---
 
