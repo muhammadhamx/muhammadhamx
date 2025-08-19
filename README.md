@@ -1,31 +1,32 @@
 # Hey there! I'm Muhammad Hamza Sajid 👋  
 
 Welcome to my little corner of GitHub, where code meets creativity and ideas come to life. 🚀  
-I’m a **Full-Stack Web Developer** with a passion for building innovative web, mobile, and desktop applications that solve real-world problems and deliver exceptional user experiences.
+I’m a **Full-Stack Web Developer** with a passion for building innovative **web, mobile, and desktop applications** that solve real-world problems and deliver exceptional user experiences.  
 
 ---
 
-## 🛠️ **What I Do Best**
-- **Frontend Wizardry**: Crafting stunning, responsive interfaces with Angular, Ionic, and Electron.
-- **Backend Brilliance**: Designing robust APIs and managing data with Node.js, MongoDB, NestJS, and PostgreSQL.
-- **Cross-Platform Expertise**: Creating seamless mobile and desktop apps with Ionic Capacitor and Electron.
-- **UI/UX Enthusiast**: Leveraging Tailwind CSS, SCSS, and Material-UI for beautiful, user-friendly designs.
+## 🛠️ What I Do Best  
+- **Frontend Wizardry**: Crafting stunning, responsive interfaces with **Angular, Ionic, and Electron**.  
+- **Backend Brilliance**: Designing robust APIs and managing data with **Node.js, NestJS, MongoDB, and PostgreSQL**.  
+- **Cross-Platform Expertise**: Creating seamless mobile and desktop apps with **Ionic Capacitor** and **Electron**.  
+- **UI/UX Enthusiast**: Leveraging **Tailwind CSS, SCSS, and Material-UI** for beautiful, user-friendly designs.  
+- **Data & Scraping**: Automating workflows and extracting valuable insights using **Python, Django, and Web Scraping**.  
 
 ---
 
-## 🌟 **My Craft in Action**
+## 🌟 My Craft in Action  
 
-### [💰 Costify](https://costify-six.vercel.app/)  
-_**An intuitive and efficient expense manager app.**_  
-- 📊 Track spending and stay within your budgets effortlessly.  
-- 🔔 Get notifications when expenses exceed set limits for better financial planning.  
-- 🌐 Seamless offline functionality powered by PouchDB.  
+### [💰 Costify](https://costify-six.vercel.app/) 
+An intuitive and efficient **expense manager app**.  
+- 📊 Track spending and stay within budgets effortlessly.  
+- 🔔 Get notifications when expenses exceed set limits.  
+- 🌐 Seamless offline functionality powered by **PouchDB**.  
 **Built With**: Angular, Ionic, PouchDB, Chart.js, RxJS  
 
 ---
 
-### [🍽️ Foodify](https://foodify-three.vercel.app/floors)  
-_**A restaurant management app to elevate your dining experience.**_  
+### [🍽️ Foodify](https://foodify-three.vercel.app/floors) 
+A **restaurant management app** to elevate your dining experience.  
 - 📱 Customers: Order food directly from the table.  
 - 👨‍🍳 Chefs: Get real-time order updates.  
 - 📊 Admins: Monitor and manage restaurant operations with ease.  
@@ -33,8 +34,8 @@ _**A restaurant management app to elevate your dining experience.**_
 
 ---
 
-### [🔗 Drag-and-Drop Node System](https://ngx-vflow.vercel.app/)  
-_**An interactive canvas to visualize and connect ideas.**_  
+###  [🔗 Drag-and-Drop Node System](https://ngx-vflow.vercel.app/)  
+An **interactive canvas** to visualize and connect ideas.  
 - 🖱️ Drag and drop custom nodes with ease.  
 - 🌐 Visualize relationships between data elements.  
 - 🎨 Styled with Tailwind CSS and DaisyUI for a modern, responsive look.  
@@ -42,28 +43,38 @@ _**An interactive canvas to visualize and connect ideas.**_
 
 ---
 
-### [🧑‍💻 HR Management System](https://hr-angular-front.vercel.app/overview)  
-_**Streamlining HR operations for CHU de Cocody hospital in France.**_  
+### [🧑‍💻 HR Management System](https://hr-angular-front.vercel.app/overview) 
+Streamlining **HR operations** for CHU de Cocody hospital in France.  
 - ✅ Seamless payroll processing and personnel management.  
 - 🔒 Secure, scalable, and user-friendly interface.  
 **Built With**: Angular, Material-UI  
 
 ---
 
-## 🌱 **My Journey So Far**
-From freelancing to working as a **Web Developer**, I've honed my craft by building scalable solutions and collaborating with talented teams. My work bridges creativity and functionality, whether it’s a cross-platform mobile app or a dynamic web application.
+### 🏢 [UK Companies Scrapper](https://github.com/muhammadhamx/uk_companyScrapper) 
+A **Python-based scraper** designed to extract, clean, and manage company data from UK business directories.  
+- 🔍 Automated data collection with error handling.  
+- 🗂️ Exports structured datasets for further analysis.  
+- ⚡ Optimized for efficiency and accuracy.  
+**Built With**: Python, Django, BeautifulSoup, Requests, Pandas  
 
 ---
 
-## 💬 **Let’s Connect**
+## 🌱 My Journey So Far  
+From freelancing to professional web development, I’ve honed my craft by building **scalable solutions** and collaborating with **talented teams**.  
+My work bridges **creativity and functionality**, whether it’s a cross-platform mobile app, a dynamic web application, or a smart data automation tool.  
+
+---
+
+## 💬 Let’s Connect  
 I’m always excited to discuss projects, collaborations, or just chat about tech!  
+
 - **GitHub**: [muhammadhamx](https://github.com/muhammadhamx)  
-- **LinkedIn**: [Muhammad Hamza Sajid](https://www.linkedin.com/in/muhammadhamxa/)  
-- **Email**: [muhammadhamzasajid6@gmail.com](mailto:muhammadhamzasajid6@gmail.com)
+- **Email**:  [codx.hamza@gmail.com]((mailto:codx.hamza@gmail.com?subject=Hello%20Hamza&body=I%20want%20to%20collaborate!)
 
 ---
 
-### ✨ **Fun Fact**  
-I’m constantly learning new technologies and turning ideas into reality. If you have an idea, let’s make it happen!  
+✨ **Fun Fact**: I’m constantly learning new technologies and turning ideas into reality.  
+💡 Got an idea? Let’s make it happen!  
 
-_Happy coding!_ 😊  
+Happy coding! 😊
