@@ -70,7 +70,7 @@ My work bridges **creativity and functionality**, whether it’s a cross-platfor
 I’m always excited to discuss projects, collaborations, or just chat about tech!  
 
 - **GitHub**: [muhammadhamx](https://github.com/muhammadhamx)  
-- **Email**:  [codx.hamza@gmail.com]((mailto:codx.hamza@gmail.com?subject=Hello%20Hamza&body=I%20want%20to%20collaborate!)
+- **Email**:  codx.hamza@gmail.com
 
 ---
 
