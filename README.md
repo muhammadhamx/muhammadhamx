@@ -71,7 +71,7 @@ I’m always excited to discuss projects, collaborations, or just chat about tec
 
 - **GitHub**: [muhammadhamx](https://github.com/muhammadhamx)  
 - **Email**:  codx.hamza@gmail.com
-- **Portfolio: [click here](https://muhammadhamza-one.vercel.app/)
+- **Portfolio**: [click here](https://muhammadhamza-one.vercel.app/)
 
 ---
 
