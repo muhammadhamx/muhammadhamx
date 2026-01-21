@@ -24,8 +24,6 @@
 const muhammadHamza = {
   role: "Full-Stack Software Engineer",
   location: "Lahore, Pakistan 🇵🇰",
-  currentCompany: "Camden Health System",
-  education: "BS Information Technology @ IUB",
   passion: "Creating solutions that scale",
   status: "Available for exciting projects",
   
@@ -196,36 +194,6 @@ const muhammadHamza = {
 ![Trophy](https://github-profile-trophy.vercel.app/?username=muhammadhamx&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4)
 
 </div>
-
----
-
-## 💼 **Professional Experience**
-
-### 🏢 **Full Stack Engineer** @ [Camden Health System](https://www.ssidecisions.com/)
-*Sep 2025 – Present*
-
-- 🏗️ Architecting enterprise-level scalable systems
-- 🔐 Designing secure REST APIs with Node.js, Express.js, and Django
-- 🗄️ Optimizing database performance (MySQL, PostgreSQL, MongoDB)
-- ☁️ Deploying production apps on AWS EC2 with Docker & Nginx
-- 🔄 Managing CI/CD pipelines with GitHub Actions
-- 👥 Collaborating in Agile/Scrum workflows
-
-### 💻 **Web Developer** @ HurTech — Bahawalpur
-*Mar 2024 – Sep 2025*
-
-- 🛠️ Built full-stack applications (Angular, Node.js, Express)
-- 📱 Developed POS systems and management platforms
-- 🔐 Integrated authentication & payment workflows
-- 📲 Created cross-platform apps (Ionic, Electron, Flutter)
-
----
-
-## 🎓 **Education**
-
-**Bachelor of Science in Information Technology**  
-*The Islamia University of Bahawalpur | 2021 – 2025*  
-📊 **GPA**: 3.05 | 📍 **Location**: Bahawalpur, Punjab
 
 ---
 
