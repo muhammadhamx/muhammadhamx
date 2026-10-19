@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a full-stack engineer with 4+ years of shipping production systems. I run a software studio where I still write the code myself, for clients in the UAE, Saudi Arabia, the UK and the US.
+I'm a full-stack engineer with 4+ years of shipping production systems. 
 
 Every project starts the same way: I sit with the business, find where records don't line up and where people are doing by hand what software should do, and design the data model before anything else. Here's mine.
 
@@ -91,7 +91,7 @@ erDiagram
 ## Experience
 
 **Lead engineer** &nbsp;·&nbsp; Software studio &nbsp;·&nbsp; <sub>Mar 2026 – NOW</sub>
-<br/>Scope each client's operational problems and build the system that fixes them. I write the code myself.
+<br/>Scope each client's operational problems and build the system that fixes them. 
 
 **Senior software engineer** &nbsp;·&nbsp; Camden Health System, Lahore &nbsp;·&nbsp; <sub>AUG 2024 – FEB 2026</sub>
 <br/>Set technical direction across four concurrent products. Led five engineers, owned the AWS infrastructure and introduced the WebSocket architecture the frontend team adopted.
